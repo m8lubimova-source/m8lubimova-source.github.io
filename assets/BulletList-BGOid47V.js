@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-Dt77Qpxt.js";var t=e();function n({items:e}){return(0,t.jsx)(`ul`,{className:`bullet-list`,children:e.map(e=>(0,t.jsxs)(`li`,{className:`bullet-list__item`,children:[(0,t.jsx)(`span`,{className:`bullet-list__marker`,"aria-hidden":`true`}),(0,t.jsx)(`span`,{className:`bullet-list__text`,children:e})]},e))})}export{n as t};

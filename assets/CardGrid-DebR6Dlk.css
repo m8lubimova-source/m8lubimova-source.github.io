@@ -1,0 +1,1 @@
+.card-grid{gap:var(--space-4);display:grid}.card-grid--2{grid-template-columns:repeat(2,1fr)}.card-grid--3{grid-template-columns:repeat(3,1fr)}@media (width<=1100px){.card-grid--3{grid-template-columns:1fr}}@media (width<=700px){.card-grid--2{grid-template-columns:1fr}}

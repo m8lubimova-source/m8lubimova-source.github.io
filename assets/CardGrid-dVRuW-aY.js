@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-Dt77Qpxt.js";var t=e();function n({columns:e=2,children:n}){return(0,t.jsx)(`div`,{className:`card-grid card-grid--`+e,children:n})}export{n as t};

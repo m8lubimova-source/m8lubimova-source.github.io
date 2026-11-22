@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-Dt77Qpxt.js";var t=e();function n({value:e,variant:n=`mono`,tone:r=`accent`}){return(0,t.jsx)(`span`,{className:`number-badge number-badge--`+n+` number-badge--`+r,children:e})}export{n as t};

@@ -1,0 +1,1 @@
+.count-up{display:inline-grid}.count-up:after{content:attr(data-value);visibility:hidden;grid-area:1/1}.count-up__text{grid-area:1/1}

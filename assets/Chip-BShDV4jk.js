@@ -1,0 +1,1 @@
+import{t as e}from"./Dot-BKq4K94E.js";import{t}from"./jsx-runtime-Dt77Qpxt.js";var n=t();function r({variant:t=`gray`,size:r=`m`,dot:i,isPill:a=!1,children:o}){let s=`chip chip--`+t+` chip--`+r;return a&&(s+=` chip--pill`),(0,n.jsxs)(`span`,{className:s,children:[i?(0,n.jsx)(e,{color:i}):null,o]})}export{r as t};

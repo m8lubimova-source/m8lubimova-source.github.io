@@ -1,0 +1,1 @@
+import{r as e,t}from"./jsx-runtime-Dt77Qpxt.js";var n=t();function r({to:t,href:r,className:i,children:a}){return t?(0,n.jsx)(e,{to:t,className:i,children:a}):r?(0,n.jsx)(`a`,{href:r,className:i,target:`_blank`,rel:`noreferrer`,children:a}):(0,n.jsx)(`div`,{className:i,children:a})}export{r as t};
